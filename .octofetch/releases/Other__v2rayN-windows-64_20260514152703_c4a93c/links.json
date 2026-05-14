@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8842",
+  "folder": "Other__v2rayN-windows-64_20260514152703_c4a93c",
+  "base_name": "v2rayN-windows-64.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mohammad802/Cloud-Downloads1/releases/tag/co-releases-v1-8842",
+  "files": [
+    {
+      "name": "v2rayN-windows-64.zip",
+      "url": "https://github.com/mohammad802/Cloud-Downloads1/releases/download/co-releases-v1-8842/v2rayN-windows-64.zip",
+      "api_url": "https://api.github.com/repos/mohammad802/Cloud-Downloads1/releases/assets/420257628",
+      "id": 420257628,
+      "size": 157991785,
+      "download_count": 0
+    }
+  ]
+}
